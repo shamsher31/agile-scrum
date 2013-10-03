@@ -1,7 +1,7 @@
 agile-scrum
 ==================
 
-Agile Scrum for Software Development LIfe Cycle.
+Agile Scrum for Software Development Life Cycle.
 
 ## Demo
 
