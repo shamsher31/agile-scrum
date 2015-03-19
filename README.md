@@ -9,7 +9,7 @@ See live demo [here](http://shamsher31.github.io/agile-scrum/).
 
 ## Author
 
-[Shamsher Ansari](http://github.com/shamsher31)
+[Shamsher Ansari](http://about.me/shamsher)
 
 
 
